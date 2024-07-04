@@ -84,7 +84,7 @@ public class webSetup {
     }
 
     public void tearDown() {
-       
+        // Quit driver and stop Appium server
         if (wdriver != null) {
             wdriver.quit();
         }
