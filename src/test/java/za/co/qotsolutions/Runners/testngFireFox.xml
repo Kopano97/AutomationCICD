@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="platform" value="firefox"/>
+    <test verbose="10" preserve-order="true" name="C:/Workspaces/AppiumDemo/src/test/java/za/co/qotsolutions/Tests">
+    <classes>
+<!--        <class name="za.co.qotsolutions.Tests.Popups"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.WebOpenLoginForm"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.Login"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.searchItem"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.selectItem"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.SelectItemChoices"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.AddToCart"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.OpenCart"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.ContactUs"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.AboutUs"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.TermsAndConditions"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.Orders"/>-->
+<!--        <class name="za.co.qotsolutions.Tests.FAQs"/>-->
+    </classes>
+</test>
+
+</suite>

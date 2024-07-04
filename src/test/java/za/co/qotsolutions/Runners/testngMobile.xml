@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <parameter name="platform" value="Mobile"/>
+    <test verbose="2" preserve-order="true" parallel="tests" thread-count="2" name="C:/Workspaces/WebAndAppAuto/src/test/java/za/co/qotsolutions/Tests">
+    <classes>
+        <class name="za.co.qotsolutions.Tests.Login"/>
+        <class name="za.co.qotsolutions.Tests.DeleteCart"/>
+    </classes>
+</test>
+</suite>
